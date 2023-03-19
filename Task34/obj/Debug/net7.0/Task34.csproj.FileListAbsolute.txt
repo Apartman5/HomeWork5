@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\bin\Debug\net7.0\Task34.exe
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\bin\Debug\net7.0\Task34.deps.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\bin\Debug\net7.0\Task34.runtimeconfig.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\bin\Debug\net7.0\Task34.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\bin\Debug\net7.0\Task34.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\refint\Task34.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\Task34.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp5\Task34\obj\Debug\net7.0\ref\Task34.dll
